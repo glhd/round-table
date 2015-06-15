@@ -2,7 +2,9 @@
 
 > **Warning:** The repository is just for planning right now.  Nothing to see here :)
 
-Round Table is a loose framework for building isomorphic Node.js apps.
+Round Table is a loose framework for building isomorphic Node.js apps.  This framework should
+stay out of the way as much as possible and just serve as the glue necessary to get lots of
+other great technology working together.
 
 ## Techonology
 
